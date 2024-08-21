@@ -8,7 +8,7 @@ This assignment will be using a bash script to read the user's name and age to g
 <h2>Languages and Utilities Used</h2>
 
 - <b>Command Prompt</b> 
-- <b>Windows 11</b>
+- <b>Bash Script</b>
 
 <h2>Environments Used </h2>
 
