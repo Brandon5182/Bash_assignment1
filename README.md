@@ -1,4 +1,4 @@
-<h1>Millionaire Time - Bash</h1>
+<h1>Millionaire Timeline - Bash</h1>
 
 <h2>Description</h2>
 This assignment will be using a bash script to read the user's name and age to guess the age they will become a millionaire while using the $RANDOM command variable. After that, the code will compile the data that the user has entered to echo the results. 
