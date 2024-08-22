@@ -17,8 +17,38 @@ This assignment will be using a bash script to read the user's name and age to g
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create the Nano script and label it "Millionaire Timeline": <br/>
+<img src="https://i.imgur.com/bgt6yn6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+Add the Sha-Bang: <br/>
+<img src="https://i.imgur.com/CceTQB8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+Give the script permissions: <br/>
+<img src="https://i.imgur.com/0yMCuVW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+Get data from the user: <br/>
+<img src="https://i.imgur.com/EQytTL4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+Set the parameters using $RANDOM plus the user's age to generate the result: <br/>
+<img src="https://i.imgur.com/l036fm8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<p align="center">
+Execute the script: <br/>
+<img src="https://i.imgur.com/2itrVbN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
